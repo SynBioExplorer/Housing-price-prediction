@@ -1,0 +1,42 @@
+Title:Seattle housing price analysis 
+
+This project is a part of the Data Analytics IronHack bootcamp October 2020, Berlin
+-- Project Status: [Completed]
+
+
+Objective: What are the best predictors for sold house price?
+
+
+Participants:
+
+Felix Meier
+
+as part of 
+
+    IronHack
+    https://www.ironhack.com/en/data-analytics/berlin
+
+Methods Used
+
+   Python: 
+   data cleaning and wrangling, 
+   applying of linear regression to predict house price based on data set features
+   Tableau: visualize Data and constructing a dashboard
+   SQL: Query data set in order to select features of the data set relavant to a business analytics scenario.
+
+
+Project Description
+"
+Your job is to build a model that will predict the price of a house based on features provided in the dataset. Senior management also wants to explore the characteristics of the houses using some business intelligence tools. One of those parameters includes understanding which factors are responsible for higher property value - $650K and above.
+"
+
+Data source:
+https://github.com/ironhack-edu/data_mid_bootcamp_project_regression
+
+Files:
+-Annotated_SQL_querries.sql
+-LinearRegressionHousePrices.ipynb
+-Tableau_dashboard
+-presentation.pptx
+-presentation_video
+
